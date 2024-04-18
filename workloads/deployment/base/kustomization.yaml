@@ -4,3 +4,4 @@ resources:
   - deployment.yaml
 commonLabels:
   appname: busybox
+namespace: deployment-rbd
