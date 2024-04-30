@@ -2,6 +2,7 @@
 resources:
   - pvc.yaml
   - deployment.yaml
+  - namespace.yaml
 commonLabels:
   appname: busybox
 namespace: deployment-rbd
